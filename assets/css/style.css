@@ -28,6 +28,12 @@
 	width: 35em;
 }
 
+#sign {
+	height: 30em;
+	max-width: 100%;
+	align-items: center;
+}
+
 
 /*	################################################################
 	1. GENERAL STRUCTURES
