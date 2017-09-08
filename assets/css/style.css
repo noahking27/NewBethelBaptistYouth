@@ -44,7 +44,7 @@
 	}
 
 body {
-	background: #ffffff;
+	background: #f5f5f5;
 	margin: 0;
 	height: 100%;
 	color: #384452;
@@ -227,7 +227,7 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: #00b3fe;
+	background-color: #0a5e80;
 	min-height: 550px;
 	padding-top: 100px;
 	padding-bottom: 0px;
@@ -385,7 +385,7 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: #00b3fe;
+	background: #0a5e80;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
