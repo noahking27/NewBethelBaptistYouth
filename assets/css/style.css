@@ -34,8 +34,21 @@
 	align-items: center;
 }
 
+.verse {
+	color: gold;
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+/*	font-family: 'Lobster', cursive;
+	font-family: 'Yellowtail', cursive;
+	font-family: 'Great Vibes', cursive;*/
+}
 
-/*	################################################################
+#bibleLocation {
+	color: white;
+}
+
+/*
+################################################################
 	1. GENERAL STRUCTURES
 ################################################################# */
 	* {
